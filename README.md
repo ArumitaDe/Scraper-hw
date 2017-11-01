@@ -6,4 +6,4 @@ I used Mongoose and Cheerio to scrape news from another site.
 
 Link to deployed app on Heroku
 
-https://github.com/ArumitaDe/Scraper-hw
+https://arcane-dusk-15733.herokuapp.com/
